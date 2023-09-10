@@ -24,7 +24,7 @@ async def raid(e):
     if e.sender_id in SUDO_USERS:
         Nraid = e.text.split(" ", 2)
 
-        if len(xraid) == 3:
+        if len(Nraid) == 3:
             entity = await e.client.get_entity(Nraid[2])
             uid = entity.id
 
