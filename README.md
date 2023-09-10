@@ -1,11 +1,11 @@
 <h2 align="center">
-    ─「 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 」─
+    ─「 𝗕𝗼𝘁𝗦𝗽𝗮𝗺 」─
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚡ᴛʜᴇ+ᴛᴇʟᴇɢʀᴀᴍ+ғᴀsᴛᴇsᴛ+ᴜsᴇʀʙᴏᴛ⚡;+⚡ᴘᴏᴡᴇʀᴅ+ʙʏ+ᴛᴇᴀᴍɴᴇɪᴍᴀɴ⚡">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚡𝗧𝗵𝗲+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗙𝗮𝘀𝘁𝗲𝘀𝘁+𝗕𝗼𝘁𝗦𝗽𝗮𝗺⚡;+⚡𝗣𝗼𝘄𝗲𝗿𝗲𝗱+𝗕𝘆+𝗧𝗲𝗮𝗺𝗡𝗲𝗶𝗺𝗮𝗻⚡">
 <p align="center"> 
-   <img src="https://te.legra.ph/file/49c618076b6250f85bf9f.jpg"> 
+ <img src="https://te.legra.ph/file/d6687f21d185a4a9edc15.jpg"> 
  </p> 
    ━━━━━━━━━━━━━━━━━━━━ 
   
