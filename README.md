@@ -44,12 +44,19 @@
  ------ 
  ## Variables 
   
- - `APP_ID`  =  Get this value from my.telegram.org 
- - `API_HASH`  =  Get this value from my.telegram.org 
+ - `OWNER_ID`  = Your tg account id 
+ - `SUDO_USERS`  = sudo users Account id 
  - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token. 
  - `BOT_TOKEN2`  = Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.  
- - `BOT_TOKEN3 `= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token. 
- - `HEROKU API KEY ` = Your Heroku Api Key
+ - `BOT_TOKEN3`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN4`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN5`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN6`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN7`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN8`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN9`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `BOT_TOKEN10`= Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+ - `HEROKU API KEY` = Your Heroku Api Key
 
   
   
