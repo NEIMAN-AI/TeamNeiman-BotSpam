@@ -41,7 +41,7 @@ async def start(event):
         TEXT += f"┣⪼ **иєιмαи νєяѕισи :** `M3.3`\n"
         TEXT += f"┣⪼ **ρутнσи νєяѕισи :** `3.11.3`\n"
         TEXT += f"┣⪼ **ᴛєℓєтнσи νєяѕισи :** `{__version__}`\n╚━━━━━━━━━━━━━━━━━╝"
-        TEXT += f"┣⪼ <b><i>»»» <a href='https://t.me/Neiman_X_Support'>[тєαм иєιмαи]</a> «««</i></b>
+        TEXT += f"┣⪼ <b><i>»»» <a href='https://t.me/Neiman_X_Support'>[тєαм иєιмαи]</a> «««</i></b>"
         await event.client.send_file(
                     event.chat_id,
                     "https://te.legra.ph/file/d6687f21d185a4a9edc15.jpg",
