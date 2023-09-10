@@ -33,11 +33,11 @@ async def start(event):
         NeimanBot = await event.client.get_me()
         bot_name = NeimanBot.first_name
         bot_id = NeimanBot.id
-        TEXT = f"**нєу [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n━━━━━━━━━━━━━━━━━━━\n\n"
-        TEXT += f"» **му σωиєя​ : [ᴛᴇᴀᴍ ɴᴇɪᴍᴀɴ](https://t.me/NeimanBoy_OP)**\n\n"
-        TEXT += f"» **иєιмαи νєяѕισи :** `M3.3`\n"
-        TEXT += f"» **ρутнσи νєяѕισи :** `3.11.3`\n"
-        TEXT += f"» **ᴛєℓєтнσи νєяѕισи :** `{__version__}`\n━━━━━━━━━━━━━━━━━"
+        TEXT = f"**нєу [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})​**\n╔━━━━━━━❰𝗡𝗲𝗶𝗺𝗮𝗻𝗕𝗼𝘁❱━━━━━━━╗\n\n"
+        TEXT += f"┣⪼ **му σωиєя​ : [иєιмαивσу](https://t.me/NeimanBoy_OP)**\n\n"
+        TEXT += f"┣⪼ **иєιмαи νєяѕισи :** `M3.3`\n"
+        TEXT += f"┣⪼ **ρутнσи νєяѕισи :** `3.11.3`\n"
+        TEXT += f"┣⪼ **ᴛєℓєтнσи νєяѕισи :** `{__version__}`\n━━━━━━━━━━━━━━━━━╝"
         await event.client.send_file(
                     event.chat_id,
                     "https://te.legra.ph/file/d6687f21d185a4a9edc15.jpg",
