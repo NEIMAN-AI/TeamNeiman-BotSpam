@@ -157,10 +157,10 @@ async def drraid(e):
 @N10.on(events.NewMessage(incoming=True, pattern=r"\%smraid(?: |$)(.*)" % hl))
 async def mraid(e):
     if e.sender_id in SUDO_USERS:
-        xraid = e.text.split(" ", 2)
+        Nraid = e.text.split(" ", 2)
 
-        if len(xraid) == 3:
-            entity = await e.client.get_entity(xraid[2])
+        if len(Nraid) == 3:
+            entity = await e.client.get_entity(Nraid[2])
             uid = entity.id
 
         elif e.reply_to_msg_id:             
@@ -170,7 +170,7 @@ async def mraid(e):
 
         try:
             first_name = entity.first_name
-            counter = int(xraid[1])
+            counter = int(Nraid[1])
             username = f"[{first_name}](tg://user?id={uid})"
             for _ in range(counter):
                 reply = choice(MRAID)
@@ -195,10 +195,10 @@ async def mraid(e):
 @N10.on(events.NewMessage(incoming=True, pattern=r"\%ssraid(?: |$)(.*)" % hl))
 async def sraid(e):
      if e.sender_id in SUDO_USERS:
-        xraid = e.text.split(" ", 2)
+        Nraid = e.text.split(" ", 2)
 
-        if len(xraid) == 3:
-            entity = await e.client.get_entity(xraid[2])
+        if len(Nraid) == 3:
+            entity = await e.client.get_entity(Nraid[2])
             uid = entity.id
 
         elif e.reply_to_msg_id:             
@@ -233,7 +233,7 @@ async def sraid(e):
 @N10.on(events.NewMessage(incoming=True, pattern=r"\%scraid(?: |$)(.*)" % hl))
 async def craid(e):
     if e.sender_id in SUDO_USERS:
-        xraid = e.text.split(" ", 2)
+        Nraid = e.text.split(" ", 2)
 
         if len(Nraid) == 3:
             entity = await e.client.get_entity(Nraid[2])
