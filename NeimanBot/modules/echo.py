@@ -26,7 +26,7 @@ async def echo(event):
             reply_msg = await event.get_reply_message()
             user_id = reply_msg.sender_id
 
-            if user_id in ALTRON:
+            if user_id in NEIMAN:
                 await event.reply("ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ my ᴏᴡɴᴇʀ.")
             elif user_id == OWNER_ID:
                 await event.reply("ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ.")
