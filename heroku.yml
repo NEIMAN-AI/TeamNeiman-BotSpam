@@ -1,5 +1,5 @@
 build:
   docker:
-    Altron: Dockerfile
+    TeamNeiman: Dockerfile
 run:
-  Altron: python3 -m main.py
+  TeamNeiman: python3 -m main.py
